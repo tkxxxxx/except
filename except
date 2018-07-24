@@ -1,4 +1,4 @@
-# except
+# http://programming-study.com/technology/python-throw-exception/
 def divide(x, y): 
       try:
             result = x / y
